@@ -1,4 +1,4 @@
-This is your new Play application
+Products catalog web application
 =====================================
+This is a tiny web application developed in scala using Play framework.
 
-This file will be packaged with your application, when using `play dist`.
